@@ -135,10 +135,3 @@ button:hover {
 html {
   scroll-behavior: smooth;
 }
-
-.typing {
-  border-right: 3px solid #ffcc00;
-  padding-right: 5px;
-  white-space: nowrap;
-  overflow: hidden;
-  animati
